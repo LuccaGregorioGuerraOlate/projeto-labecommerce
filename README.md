@@ -1,10 +1,3 @@
-# labecommerce-backend
-
-* Projeto Labecommerce Back-end
-Este é o projeto do Back-end do Labecommerce, uma aplicação de e-commerce fictícia. Neste projeto, foi desenvolvida uma API RESTful que fornece acesso aos recursos de usuários, produtos e compras através de diferentes endpoints. Esse é um projeto de estudo com objetivo de praticar matérias da base de backend como por exemplo: NodeJS - Typescript - Express - SQL e SQLite - Knex - Postman.
-
-
-
 * Documentação com os passos a passos de todos os end-points:
 https://documenter.getpostman.com/view/27736274/2s946maVR9
 
